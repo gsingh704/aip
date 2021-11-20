@@ -1,5 +1,5 @@
 
-echo "Enter path name of dir":
+echo "Enter path  of directory where you want to store the appimages":
 read filename
 mkdir -p $filename
 cd  $filename
