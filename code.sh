@@ -1,4 +1,4 @@
-#! /bin/bash
+
 echo "Enter path name of dir":
 read filename
 mkdir -p $filename
