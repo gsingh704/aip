@@ -1,1 +1,4 @@
+mkdir Appimages
+cd Appimages
+mkdir cp *.Appimage *.Appimage.home
 
