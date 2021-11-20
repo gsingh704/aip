@@ -1,4 +1,5 @@
 mkdir Appimages
 cd Appimages
-mkdir cp *.Appimage *.Appimage.home
+for i in *.AppImage; do mkdir -p "${i}".home; done;
+
 
